@@ -3,9 +3,7 @@
 ### required to obtain the grade of **Master of Software Engineering**, at *Centro de Investigación en Matemáticas, A.C.*, Zacatecas Unit.
 
 ## List of files:
-### Mutual funds downloaded from the [**National Banking and Stock Commission**](http://www.cnbv.gob.mx/SECTORES-SUPERVISADOS/SOCIEDADES-DE-
-INVERSION/Buscador-de-Sociedades-de-Inversi%C3%B3n/Paginas/Buscador-de-
-Sociedades-de-Inversion.aspx) (CNBV, *Comisión Nacional Bancaria y de Valores*) website
+### Mutual funds downloaded from the [**National Banking and Stock Commission**](http://www.cnbv.gob.mx/SECTORES-SUPERVISADOS/SOCIEDADES-DE-INVERSION/Buscador-de-Sociedades-de-Inversi%C3%B3n/Paginas/Buscador-de-Sociedades-de-Inversion.aspx) (CNBV, *Comisión Nacional Bancaria y de Valores*) website
 * `RVMexico.fondos_a_analizar_20160127.xlsx`
 #### Sheets contents:
  * **Fondos-CNBV**. Complete list of Mexican mutual funds registered at the CNBV website, until October, 2015.
